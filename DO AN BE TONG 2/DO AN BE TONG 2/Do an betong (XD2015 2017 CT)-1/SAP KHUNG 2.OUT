@@ -1,0 +1,22 @@
+ SAP2000 v14.2.2 Advanced (Analysis Build 8851/32)                              
+ File: E:\Dropbox\XD VB2\DO AN...Do an betong (XD2015 2017 CT)-1\SAP KHUNG 2.OUT
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       9               -   -   -   -   -   -
+      10               A   A   A   A   A   A
+      11               -   -   -   -   -   -
+      12 TO      14    A   A   A   A   A   A
+      15               -   -   -   -   -   -
+      16               A   A   A   A   A   A
+      17               -   -   -   -   -   -
+      18 TO      32    A   A   A   A   A   A

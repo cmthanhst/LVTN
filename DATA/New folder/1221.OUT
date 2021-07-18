@@ -1,0 +1,16 @@
+ SAP2000 v14.2.2 Advanced (Analysis Build 8851/32)                              
+ File: D:\LVTN\New folder\1221.OUT                                              
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1               -   -   -   -   -   -
+       2               A   A   A   A   A   A

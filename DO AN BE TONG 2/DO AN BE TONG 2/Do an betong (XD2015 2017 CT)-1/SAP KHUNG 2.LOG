@@ -1,0 +1,51 @@
+
+
+ SAP2000 v14.2.2 Advanced (Analysis Build 8851/32)
+ File: E:\Dropbox\XD VB2\DO AN...Do an betong (XD2015 2017 CT)-1\SAP KHUNG 2.LOG
+
+
+
+
+ B E G I N   A N A L Y S I S                                2019/08/21  18:24:46
+
+
+ RUNNING ANALYSIS WITHIN THE GUI PROCESS
+ USING THE ADVANCED SOLVER (PROVIDES LIMITED INSTABILITY INFORMATION)
+
+
+ E L E M E N T   F O R M A T I O N                                      18:24:46
+
+
+
+ L I N E A R   E Q U A T I O N   S O L U T I O N                        18:24:46
+
+ FORMING STIFFNESS AT ZERO (UNSTRESSED) INITIAL CONDITIONS
+
+ TOTAL NUMBER OF EQUILIBRIUM EQUATIONS     =         120
+ NUMBER OF NON-ZERO STIFFNESS TERMS        =        1428
+
+ NUMBER OF EIGENVALUES BELOW SHIFT         =           0
+
+
+ L I N E A R   S T A T I C   C A S E S                                  18:24:47
+
+ USING STIFFNESS AT ZERO (UNSTRESSED) INITIAL CONDITIONS
+
+ TOTAL NUMBER OF CASES TO SOLVE            =          10
+ NUMBER OF CASES TO SOLVE PER BLOCK        =          10
+
+ LINEAR STATIC CASES TO BE SOLVED:
+
+ CASE: DEAD
+ CASE: TT
+ CASE: HT
+ CASE: GX
+ CASE: GXX
+ CASE: HT2
+ CASE: HT3
+ CASE: HT4
+ CASE: HT5
+ CASE: HT6
+
+
+ A N A L Y S I S   C O M P L E T E                          2019/08/21  18:24:47
