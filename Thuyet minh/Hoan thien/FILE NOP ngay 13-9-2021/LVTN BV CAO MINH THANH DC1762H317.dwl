@@ -1,3 +1,0 @@
-cmtha
-DESKTOP-T2FTJGE 
-13 Tha´ng Chi´n 2021  4:17:29 CH
